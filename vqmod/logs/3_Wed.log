@@ -1,0 +1,300 @@
+---------- Date: 2014-11-12 13:35:26 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /cartier/aperse-set.html
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:35:54 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/featured.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:36:00 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=71_76
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:36:35 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=71_76
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:36:50 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/compare
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:37:54 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/featured.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:38:05 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=70
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:38:18 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/product&amp;path=70&amp;product_id=32
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:38:39 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=50
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:45:59 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=70
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 13:46:09 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=product/compare
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:50:11 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/featured.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:53:23 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/featured.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:53:28 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /braceletes
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:53:34 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /rings
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:53:37 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /earrings
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:53:42 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /earrings/baterfly
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:53:50 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/featured.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:54:05 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /home
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/bestseller.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-11-12 17:54:16 ~ IP : 195.170.46.170 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /var/www/u232411/data/www/xn--80adsmfz.xn--p1ai/vqmod/xml/product-display-settings.xml
+   id        : Product Display Settings
+   version   : 1.0
+   vqmver    : 2.1.5
+   author    : Flo from shopencart.com
+
+File Name    : catalog/view/theme/*/template/module/featured.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+
+----------------------------------------------------------------------
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<id><![CDATA[Automaatne unikaalne tootekood]]></id>
+	<version><![CDATA[1.0.1]]></version>
+	<vqmver><![CDATA[2.3.1]]></vqmver>
+	<author><![CDATA[<a onClick="window.open('mailto:yanza1981@gmail.com');" title="mail me">YanZa</a>]]></author> 
+	
+	<!-- Tootevälja muudatus -->       
+	<file name="admin/controller/catalog/product.php"> 
+		<operation error="skip">
+             <search position="replace"><![CDATA[$this->data['model'] = '';]]></search>
+             <add><![CDATA[$this->data['model'] = date("ymdHis");]]></add>
+		</operation>
+	</file>		
+</modification>

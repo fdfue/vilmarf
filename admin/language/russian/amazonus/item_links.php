@@ -1,0 +1,27 @@
+<?php
+$_['lang_title']                    = 'OpenBay Pro for Amazon US | Связи товаров';
+$_['lang_openbay']                  = 'OpenBay Pro';
+$_['lang_overview']                 = 'Обзор Amazon US';
+$_['lang_btn_return']               = 'Назад';
+$_['lang_link_items']               = 'Связь товаров';
+$_['lang_item_links']               = 'Связи товара';
+$_['lang_desc1']                    = 'Связывание товаров позволит Вам вести учет вашего склада на Amazon US.<br /> Для каждого товара который обновляет локальный склад (склад вашего магазина на OpenCart) также обновится список товаров и на Amazon US';
+$_['lang_desc2']                    = 'Вы можете связать элементы вручную, введя Amazon SKU(артикул) и название товара или загрузить все несвязанные товары, а затем ввести amazonus SKUs(артикулы). (Загрузка товаров из OpenCart для Amazon будет автоматически добавлять связи)';
+$_['lang_load_btn']                 = 'Загрузка';
+$_['lang_new_link']                 = 'Новая связь';
+$_['lang_autocomplete_product']     = 'Товар<span class="help">(Автозаполнение по названию)</span>';
+$_['lang_amazonus_sku']             = 'Amazon SKU(артикул) товара';
+$_['lang_action']                   = 'Действие';
+$_['lang_add']                      = 'Добавить';
+$_['lang_add_sku_tooltip']          = 'Добавить другой sku(артикул)';
+$_['lang_remove']                   = 'Удалить';
+$_['lang_linked_items']             = 'Связанные товары';
+$_['lang_unlinked_items']           = 'Несвязанные товаров';
+$_['lang_name']                     = 'Название';
+$_['lang_model']                    = 'Модель';
+$_['lang_combination']              = 'Сочетание';
+$_['lang_sku']                      = 'SKU(артикул)';
+$_['lang_amazonus_sku']             = 'Amazon SKU(артикул) товара';
+$_['lang_sku_empty_warning']        = 'Amazon SKU(артикул) не может быть пустым!';
+$_['lang_name_empty_warning']       = 'Название товара не может быть пустым!';
+$_['lang_product_warning']          = 'Товар не найден. Пожалуйста, используйте значение автозаполнения.';

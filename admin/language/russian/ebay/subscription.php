@@ -1,0 +1,22 @@
+<?php
+$_['lang_heading']              = 'Подписка';
+$_['lang_openbay']              = 'OpenBay Pro';
+$_['lang_ebay']                 = 'eBay';
+$_['lang_page_title']           = 'OpenBay Pro для eBay';
+$_['lang_error_validation']     = 'Вам нужно зарегистрировать ваш API токен и включить модуль.';
+$_['lang_btn_return']           = 'Назад';
+$_['lang_load']                 = 'Обновить';
+$_['lang_usage_title']          = 'Использование';
+$_['lang_subscription_current'] = 'Текущий план';
+$_['lang_subscription_avail']   = 'Доступные планы';
+$_['lang_subscription_avail1']  = 'Изменение плана будет выполнено немедленно и неиспользуемые вызовы не будут зачислены.';
+$_['lang_subscription_avail2']  = 'Чтобы понизить до базового плана пожалуйста отменить активную подписку в PayPal.';
+$_['lang_ajax_acc_load_plan']   = 'PayPal ID подписки: ';
+$_['lang_ajax_acc_load_plan2']  = ', вы должны отменить все другие наши подписки';
+$_['lang_ajax_acc_load_text1']  = 'Название плана';
+$_['lang_ajax_acc_load_text2']  = 'Лимит вызовов';
+$_['lang_ajax_acc_load_text3']  = 'Цена (в месяц)';
+$_['lang_ajax_acc_load_text4']  = 'Описание';
+$_['lang_ajax_acc_load_text5']  = 'Текущий план';
+$_['lang_ajax_acc_load_text6']  = 'Изменить план';
+$_['lang_ajax_load_error']      = 'К сожалению, сервер не отвечает. Попробуйте позже.';

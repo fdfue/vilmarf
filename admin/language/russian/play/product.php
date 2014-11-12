@@ -1,0 +1,23 @@
+<?php
+$_['lang_product_name']                     = 'Название товара';
+$_['lang_save']                             = 'Сохранить';
+$_['lang_cancel']                           = 'Отменить';
+$_['lang_delete']                           = 'Удалить';
+$_['lang_page_title']                       = 'Новый play.com товар';
+$_['lang_page_title_edit']                  = 'Изменить play.com товар';
+$_['lang_product_id']                       = 'ID Товара<span class="help">Без дефисов и пробелов</span>';
+$_['lang_product_dispatch_to']              = 'Отправка в';
+$_['lang_product_id_type']                  = 'Тип ID Товара<span class="help">ISBN код может быть 10 или 13</span>';
+$_['lang_price_uk']                         = 'Цена в Англии<span class="help">Включая доставку и налог</span>';
+$_['lang_price_euro']                       = 'Цена в Европе<span class="help">Включая доставку и налог</span>';
+$_['lang_quantity']                         = 'Количество';
+$_['lang_condition']                        = 'Условия';
+$_['lang_comment']                          = 'Комментарии';
+$_['lang_product_dispatch_fr']              = 'Отправка из';
+$_['lang_text_success']                     = 'Ваш товар был добавлен';
+$_['lang_text_success_updated']             = 'Ваш товар будет обновлен на Play.com маркете при следующем обновлении';
+$_['lang_text_success_deleted']             = 'Ваш товар будет удален с Play.com маркета при следующем обновлении';
+$_['lang_error_min_price']                  = 'Цена Фунта Стерлинга должна быть &pound;0.98 или больше, и меньше &pound;3000';
+$_['lang_error_max_price']                  = 'Цена Фунта Стерлинга должна быть &pound;0.98 или больше, и меньше &pound;3000';
+$_['lang_error_min_price_eu']               = 'Цена ЕВРО должна быть &euro;1.59 или больше, и меньше &euro;5000';
+$_['lang_error_max_price_eu']               = 'Цена Фунта Стерлинга должна быть &euro;1.59 или больше, и меньше &euro;5000';

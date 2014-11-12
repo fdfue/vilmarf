@@ -1,0 +1,32 @@
+<?php
+$_['lang_title']                    = 'OpenBay Pro';
+$_['lang_page_title']               = 'Изменить список eBay';
+$_['lang_home']                     = 'Главная';
+$_['lang_save']                     = 'Сохранить';
+$_['lang_ebay']                     = 'eBay';
+$_['lang_pageaction']               = 'Изменть список';
+$_['lang_view']                     = 'Просмотр списка';
+$_['lang_remove']                   = 'Удалить связь';
+$_['lang_end']                      = 'Конец списка';
+$_['lang_cancel']                   = 'Отменить';
+$_['lang_loading']                  = 'Получить информацию о товаре с eBay';
+$_['lang_retry']                    = 'Повтор';
+$_['lang_error_loading']            = 'Произошла ошибка получения информации с eBay';
+$_['lang_saved']                    = 'Список был сохранен';
+$_['lang_tbl_title']                = 'Заголовок';
+$_['lang_tbl_price']                = 'Цена<span class="help">Включая налог</span>';
+$_['lang_tbl_qty_instock']          = 'Локальный уровень склада<span class="help">Уровень склада в Opencart</span>';
+$_['lang_tbl_qty_listed']           = 'Количество на eBay<span class="help">Текущий уровень склада на eBay</span>';
+$_['lang_tbl_qty_reserve']          = 'Уровень резерва<span class="help">Максимальный уровень склада на eBay (0 = нет резервного лимита)</span>';
+$_['lang_alert_removed']            = 'Список был удален';
+$_['lang_alert_ended']              = 'Список закончился на eBay';
+$_['lang_confirm']                  = 'Вы уверены?';
+
+$_['lang_stock_matrix']             = 'Структура склада';
+$_['lang_stock_col_qty_total']      = 'В наличии';
+$_['lang_stock_col_qty']            = 'В список';
+$_['lang_stock_col_qty_reserve']    = 'Запасной';
+$_['lang_stock_col_comb']           = 'Комбинация';
+$_['lang_stock_col_price']          = 'Цена';
+$_['lang_stock_col_enabled']        = 'Включено';
+$_['lang_qty']                      = 'Количество в список<span class="help">Задайте меньшее количество, если вы хотите поддерживать более низкий уровень склада на eBay</span>';
